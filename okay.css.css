@@ -1,0 +1,36 @@
+h1{
+text-align: center;
+color: brown;
+font-size: 50px;
+background-color: rgb(255, 167, 4);
+}
+
+
+
+
+.DOIS-container {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    
+   
+    
+    }
+
+    
+    
+    button {
+        position: absolute;
+        Top: 50%;
+        left: 50%;
+        transition: left 0.1s ease-in-out, top 0.1s ease-in-out;
+    }
+
+    body {
+        background-image: url('img1.jpeg'); /* Substitua o caminho pela localização da sua imagem */
+        background-size: cover; /* Garante que a imagem cubra todo o fundo */
+        background-repeat: no-repeat; /* Evita que a imagem seja repetida */
+        background-position: center 20%;
+    }
+ 
+  
